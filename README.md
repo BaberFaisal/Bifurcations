@@ -6,7 +6,9 @@ This project investigates **nonlinear boundary value problems** and **bifurcatio
 
 The Bratu equation:
 
-** -\Delta u = \lambda e^u \quad \text{in } \Omega, \quad u = 0 \text{ on } \partial \Omega **
+$$
+-\Delta u = \lambda e^u \quad \text{in } \Omega, \quad u = 0 \text{ on } \partial \Omega 
+$$
 
 
 is known for exhibiting bifurcation — multiple solution branches for the same parameter λ.

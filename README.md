@@ -5,9 +5,8 @@
 This project investigates **nonlinear boundary value problems** and **bifurcation behavior** in the **2D Bratu problem**, solved using the **Iterative Generalized Kantorovich Method (IGKM)**. The results include visualizations of bifurcation diagrams, solution profiles, and comparisons between different Taylor expansion orders.
 
 The Bratu equation:
-$$
--\Delta u = \lambda e^u \quad \text{in } \Omega, \quad u = 0 \text{ on } \partial \Omega
-$$
+
+** -\Delta u = \lambda e^u \quad \text{in } \Omega, \quad u = 0 \text{ on } \partial \Omega **
 
 
 is known for exhibiting bifurcation — multiple solution branches for the same parameter λ.

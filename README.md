@@ -83,7 +83,7 @@ is known for exhibiting bifurcation — multiple solution branches for the same 
 
 
 
-## 📌 Recommendation
+##  Recommendation
 
 This approach can be extended to more complex nonlinear PDEs, and the solver can be upgraded to:
 - Track unstable branches more robustly
